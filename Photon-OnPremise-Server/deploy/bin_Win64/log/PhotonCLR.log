@@ -1,0 +1,171 @@
+2017-04-10 16:24:43,391 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-04-10 16:24:43,408 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-04-10 16:24:43,411 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-04-10 16:24:43,777 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2017-04-10 16:24:44,848 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:24:44,852 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:24:44,854 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA;bin_Win64;Shared;'
+2017-04-10 16:24:44,855 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:24:44,856 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\Cache'
+2017-04-10 16:24:45,093 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:24:45,095 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:24:45,096 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:24:45,097 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:24:45,158 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/MOBAServer.DLL
+2017-04-10 16:24:45,160 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:24:45,213 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/Photon.SocketServer.DLL
+2017-04-10 16:24:45,293 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/ExitGamesLibs.DLL
+2017-04-10 16:24:45,303 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:24:45,321 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='2' -- calling Application.Setup
+2017-04-10 16:24:45,372 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.OnStopRequested()
+2017-04-10 16:24:45,375 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-04-10 16:24:45,382 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.TearDown()
+2017-04-10 16:26:35,400 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-04-10 16:26:35,413 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-04-10 16:26:35,417 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-04-10 16:26:35,723 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2017-04-10 16:26:36,793 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:26:36,796 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:26:36,797 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA;bin_Win64;Shared;'
+2017-04-10 16:26:36,799 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:26:36,800 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\Cache'
+2017-04-10 16:26:37,004 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:26:37,006 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:26:37,008 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:26:37,009 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:26:37,065 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/MOBAServer.DLL
+2017-04-10 16:26:37,067 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:26:37,132 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/Photon.SocketServer.DLL
+2017-04-10 16:26:37,197 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/ExitGamesLibs.DLL
+2017-04-10 16:26:37,202 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:26:37,221 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='2' -- calling Application.Setup
+2017-04-10 16:26:37,230 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.OnStopRequested()
+2017-04-10 16:26:37,233 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-04-10 16:26:37,240 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.TearDown()
+2017-04-10 16:37:32,236 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-04-10 16:37:32,251 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-04-10 16:37:32,254 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-04-10 16:37:32,569 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2017-04-10 16:37:33,634 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:37:33,637 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:37:33,639 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA;bin_Win64;Shared;'
+2017-04-10 16:37:33,640 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:37:33,641 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\Cache'
+2017-04-10 16:37:33,824 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:37:33,825 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:37:33,827 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:37:33,828 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:37:33,883 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/MOBAServer.DLL
+2017-04-10 16:37:33,885 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:37:33,949 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/Photon.SocketServer.DLL
+2017-04-10 16:37:34,008 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/ExitGamesLibs.DLL
+2017-04-10 16:37:34,012 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:37:34,030 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='2' -- calling Application.Setup
+2017-04-10 16:37:34,039 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.OnStopRequested()
+2017-04-10 16:37:34,042 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-04-10 16:37:34,050 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.TearDown()
+2017-04-10 16:38:50,594 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-04-10 16:38:50,608 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-04-10 16:38:50,611 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-04-10 16:38:50,928 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2017-04-10 16:38:51,999 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:38:52,001 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:38:52,003 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA;bin_Win64;Shared;'
+2017-04-10 16:38:52,004 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:38:52,005 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\Cache'
+2017-04-10 16:38:52,157 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:38:52,159 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:38:52,162 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:38:52,164 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:38:52,199 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/MOBAServer.DLL
+2017-04-10 16:38:52,201 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:38:52,248 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/Photon.SocketServer.DLL
+2017-04-10 16:38:52,291 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/ExitGamesLibs.DLL
+2017-04-10 16:38:52,296 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:38:52,315 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='2' -- calling Application.Setup
+2017-04-10 16:38:52,324 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.OnStopRequested()
+2017-04-10 16:38:52,327 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-04-10 16:38:52,334 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.TearDown()
+2017-04-10 16:39:59,515 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-04-10 16:39:59,529 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-04-10 16:39:59,532 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-04-10 16:39:59,839 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2017-04-10 16:40:00,907 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:40:00,909 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:40:00,911 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA;bin_Win64;Shared;'
+2017-04-10 16:40:00,912 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:40:00,914 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\Cache'
+2017-04-10 16:40:01,055 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:40:01,057 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:40:01,059 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:40:01,060 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:40:01,109 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/MOBAServer.DLL
+2017-04-10 16:40:01,112 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:40:01,167 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/Photon.SocketServer.DLL
+2017-04-10 16:40:01,214 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/ExitGamesLibs.DLL
+2017-04-10 16:40:01,219 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:40:01,237 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='2' -- calling Application.Setup
+2017-04-10 16:40:01,246 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.OnStopRequested()
+2017-04-10 16:40:01,249 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-04-10 16:40:01,259 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.TearDown()
+2017-04-10 16:40:32,511 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-04-10 16:40:32,526 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-04-10 16:40:32,529 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-04-10 16:40:32,837 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2017-04-10 16:40:33,903 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:40:33,905 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:40:33,907 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA;bin_Win64;Shared;'
+2017-04-10 16:40:33,908 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:40:33,909 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\Cache'
+2017-04-10 16:40:34,071 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:40:34,073 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:40:34,075 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:40:34,077 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:40:34,123 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/MOBAServer.DLL
+2017-04-10 16:40:34,125 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:40:34,173 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/Photon.SocketServer.DLL
+2017-04-10 16:40:34,223 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/ExitGamesLibs.DLL
+2017-04-10 16:40:34,228 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:40:34,248 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='2' -- calling Application.Setup
+2017-04-10 16:40:34,257 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.OnStopRequested()
+2017-04-10 16:40:34,261 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-04-10 16:40:34,268 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.TearDown()
+2017-04-10 16:41:45,627 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Initialize: ApplicationName = 'DefaultDomain', DomainID = '1'
+2017-04-10 16:41:45,642 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AppDomains with unhandled exceptions are usually not unloaded and restarted.
+2017-04-10 16:41:45,645 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Getting license information:
+2017-04-10 16:41:45,956 [ 1] INFO  PhotonHostRuntime.PhotonLicensing - LICENSE: Type:Standard; Plan:Free; Expiration: never; floating license: yes; max connections: 100; valid IPs: any; status:Licensed
+2017-04-10 16:41:47,025 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:41:47,028 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:41:47,029 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin;bin_Win64;Shared;'
+2017-04-10 16:41:47,031 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:41:47,032 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin\Cache'
+2017-04-10 16:41:47,216 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:41:47,218 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin'
+2017-04-10 16:41:47,219 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:41:47,221 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:41:47,282 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/MOBAServer.DLL
+2017-04-10 16:41:47,283 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:41:47,334 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/Photon.SocketServer.DLL
+2017-04-10 16:41:47,423 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/ExitGamesLibs.DLL
+2017-04-10 16:41:47,429 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:41:47,446 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='2' -- calling Application.Setup
+2017-04-10 16:41:47,497 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/ExitGames.Logging.Log4Net.DLL
+2017-04-10 16:41:47,588 [ 1] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'DefaultDomain', DomainId='1'
+2017-04-10 16:43:41,381 [17] INFO  PhotonHostRuntime.PhotonDomainManager - CreateAppDomain: name = 'MOBA' , assemblyName = 'MOBAServer'
+2017-04-10 16:43:41,383 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationBase = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:43:41,385 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   PrivateBinPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin;bin_Win64;Shared;'
+2017-04-10 16:43:41,386 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ConfigurationFile = ''
+2017-04-10 16:43:41,388 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   CachePath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin\Cache'
+2017-04-10 16:43:41,560 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA'
+2017-04-10 16:43:41,562 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   BinaryPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin'
+2017-04-10 16:43:41,564 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   ApplicationRootPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy'
+2017-04-10 16:43:41,565 [17] INFO  PhotonHostRuntime.PhotonDomainManager -   UnmanagedLogPath = 'E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\log'
+2017-04-10 16:43:41,625 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: MOBAServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/MOBAServer.DLL
+2017-04-10 16:43:41,627 [17] INFO  PhotonHostRuntime.PhotonDomainManager - Photon SDK:4.0.28.11245
+2017-04-10 16:43:41,679 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: Photon.SocketServer, Version=4.0.28.11245, Culture=neutral, PublicKeyToken=48c2fa3b6988090e from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/Photon.SocketServer.DLL
+2017-04-10 16:43:41,728 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGamesLibs, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/ExitGamesLibs.DLL
+2017-04-10 16:43:41,733 [17] INFO  PhotonHostRuntime.PhotonDomainManager - Starting: name = 'MOBA', assemblyName = 'MOBAServer', typeName = 'MOBAServer.MobaApplication'
+2017-04-10 16:43:41,735 [17] INFO  PhotonHostRuntime.PhotonDomainManager - PhotonRunning: ApplicationName = 'MOBA', DomainId='3' -- calling Application.Setup
+2017-04-10 16:43:41,778 [17] INFO  PhotonHostRuntime.PhotonDomainManager - AssemblyLoadEvent: ExitGames.Logging.Log4Net, Version=1.0.4.0, Culture=neutral, PublicKeyToken=eac0edd9746a4aa0 from file:///E:/Dev/MOBAServer/Photon-OnPremise-Server/deploy/MOBA/bin/ExitGames.Logging.Log4Net.DLL
+2017-04-10 16:43:41,860 [17] INFO  PhotonHostRuntime.PhotonDomainManager - RequestStop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.OnStopRequested()
+2017-04-10 16:43:41,864 [17] INFO  PhotonHostRuntime.PhotonDomainManager - Stop: ApplicationName = 'MOBA', DomainId='2' -- calling Application.TearDown()

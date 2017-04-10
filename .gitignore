@@ -2,3 +2,7 @@
 /MobaClient/Library
 /MobaClient/Assets/LarkFramework
 /MobaClient/Assets/CommonPack
+/Photon-OnPremise-Server/src-server
+/Photon-OnPremise-Server/build
+/Photon-OnPremise-Server/doc
+/Photon-OnPremise-Server/lib
