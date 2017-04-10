@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using MOBACommon.OpCode;
+using MOBACommon.Dto;
 
 public class RegisterView : MonoBehaviour {
 
@@ -9,7 +11,7 @@ public class RegisterView : MonoBehaviour {
 
     public void Register()
     {
-
+        PhotonMgr.Instance.Request(OpCode.AccountCode, OpAccount.Register,account,password);
     }
 
     public void Return()

@@ -23,11 +23,11 @@ namespace MOBACommon.OpCode
         /// <summary>
         /// 登录操作
         /// </summary>
-        public byte Login = 0;
+        public const byte Login = 0;
 
         /// <summary>
         /// 注册操作
         /// </summary>
-        public byte Register = 1;
+        public const byte Register = 1;
     }
 }

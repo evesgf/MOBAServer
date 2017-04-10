@@ -2,6 +2,7 @@
 using System.Collections;
 using ExitGames.Client.Photon;
 using System;
+using System.Collections.Generic;
 
 public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
 
@@ -57,6 +58,27 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
     void OnApplicationQuit()
     {
         peer.Disconnect();
+    }
+
+    /// <summary>
+    /// 向服务器发送请求
+    /// </summary>
+    /// <param name="code">操作码</param>
+    /// <param name="SubCode">子操作码</param>
+    /// <param name="parameters">参数</param>
+    public void Request(byte code,byte SubCode,params object[] parameters)
+    {
+        //创建参数字典
+        Dictionary<byte, object> dict = new Dictionary<byte, object>();
+        //指定子操作码
+        dict[80] = SubCode;
+        //赋值参数
+        for (int i = 0; i < parameters.Length; i++)
+        {
+            dict[(byte)i] = parameters[i];
+        }
+        //发送
+        peer.OpCustom(code, dict, true);
     }
 
     #region Photon接口

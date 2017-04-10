@@ -23,6 +23,6 @@ namespace MOBACommon.OpCode
         /// <summary>
         /// 账号
         /// </summary>
-        public byte AccountCode = 0;
+        public const byte AccountCode = 0;
     }
 }
