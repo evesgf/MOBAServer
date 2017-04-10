@@ -1,0 +1,8 @@
+E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\log4net.config
+E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\MOBAServer.dll
+E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\MOBAServer.pdb
+E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin\log4net.config
+E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin\MOBAServer.dll
+E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA\bin\MOBAServer.pdb
+E:\Dev\MOBAServer\Server\MOBAServer\obj\Debug\MOBAServer.dll
+E:\Dev\MOBAServer\Server\MOBAServer\obj\Debug\MOBAServer.pdb
