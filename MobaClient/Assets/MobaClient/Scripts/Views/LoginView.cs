@@ -1,9 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using MOBACommon.Dto;
+using MOBACommon.OpCode;
+using LitJson;
 
 public class LoginView : MonoBehaviour {
 
+    [Header("登录模块")]
     public InputField account;
     public InputField password;
 
@@ -11,7 +15,14 @@ public class LoginView : MonoBehaviour {
 
     public void Login()
     {
+        AccountDto dto = new AccountDto()
+        {
+            Account = account.text,
+            Password=password.text
+        };
 
+        //发送登录请求
+        PhotonMgr.Instance.Request(OpCode.AccountCode, OpAccount.Login, JsonMapper.ToJson(dto));
     }
 
     public void Register()

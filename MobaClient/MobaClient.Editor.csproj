@@ -100,17 +100,38 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
+    <Reference Include="SALSAEditor">
+      <HintPath>Assets\CommonPack\Crazy Minnow Studio\SALSA with RandomEyes\Editor\SALSAEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="SALSA">
+      <HintPath>Assets\CommonPack\Crazy Minnow Studio\SALSA with RandomEyes\Plugins\SALSA.dll</HintPath>
+    </Reference>
     <Reference Include="DemiLib">
       <HintPath>Assets\CommonPack\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
     </Reference>
-    <Reference Include="SALSAEditor">
-      <HintPath>Assets\CommonPack\Crazy Minnow Studio\SALSA with RandomEyes\Editor\SALSAEditor.dll</HintPath>
+    <Reference Include="DemiEditor">
+      <HintPath>Assets\CommonPack\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween50.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
       <HintPath>Assets\CommonPack\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
     </Reference>
-    <Reference Include="ShaderForge">
-      <HintPath>Assets\CommonPack\ShaderForge\Editor\ShaderForge.dll</HintPath>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\CommonPack\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>Assets\CommonPack\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
     </Reference>
     <Reference Include="GETween">
       <HintPath>Assets\CommonPack\GUI Animator\Common\Plugins\GETween.dll</HintPath>
@@ -121,38 +142,20 @@
     <Reference Include="GUIAnimatorEditor">
       <HintPath>Assets\CommonPack\GUI Animator\GUI Animator for Unity UI\Plugins\Editor\GUIAnimatorEditor.dll</HintPath>
     </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween46">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween46.dll</HintPath>
+    <Reference Include="ShaderForge">
+      <HintPath>Assets\CommonPack\ShaderForge\Editor\ShaderForge.dll</HintPath>
     </Reference>
     <Reference Include="SSAA">
       <HintPath>Assets\CommonPack\Super Sampling (SSAA)\Data\SSAA.dll</HintPath>
-    </Reference>
-    <Reference Include="SALSA">
-      <HintPath>Assets\CommonPack\Crazy Minnow Studio\SALSA with RandomEyes\Plugins\SALSA.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-      <HintPath>Assets\CommonPack\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>Assets\CommonPack\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-    </Reference>
-    <Reference Include="DemiEditor">
-      <HintPath>Assets\CommonPack\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween50">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween50.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween43.dll</HintPath>
     </Reference>
     <Reference Include="MOBACommon">
       <HintPath>Assets\MobaClient\Puglins\MOBACommon.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
       <HintPath>Assets\MobaClient\Puglins\Photon3Unity3D.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJson">
+      <HintPath>Assets\MobaClient\Puglins\LitJson.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
