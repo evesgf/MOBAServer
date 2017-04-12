@@ -20,7 +20,7 @@ namespace MOBAServer
         /// <param name="opCode">操作码</param>
         /// <param name="subCode">子操作</param>
         /// <param name="parameters">参数</param>
-        public virtual void Send(MobaClient client,byte opCode,byte subCode,byte retCode,string mess,params object[] parameters)
+        public virtual void Send(MobaClient client,byte opCode,byte subCode, short retCode,string mess,params object[] parameters)
         {
             OperationResponse response = new OperationResponse();
             response.OperationCode = opCode;

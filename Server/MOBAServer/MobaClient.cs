@@ -17,7 +17,7 @@ namespace MOBAServer
 
         public MobaClient(InitRequest initRequest) : base(initRequest)
         {
-
+            account = new AccountHandler();
         }
 
         /// <summary>

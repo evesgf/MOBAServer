@@ -18,7 +18,7 @@ namespace MOBAServer.Logic
 
         public void OnDisconnect(MobaClient client)
         {
-
+            cache.Offline(client);
         }
 
         public void OnRequest(MobaClient client, byte subCode, OperationRequest request)
@@ -50,14 +50,26 @@ namespace MOBAServer.Logic
         /// <param name="pwd"></param>
         private void onLogin(MobaClient client,string acc, string pwd)
         {
+            //无效检测
+            if (acc == null || pwd == null) return;
+
             //TODO:验证在线...
-
-            bool res = cache.Match(acc, pwd);
-
-            if (res == true)
+            if (cache.IsOnLine(acc))
             {
                 //回发消息
+                this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "此玩家已在线");
+            }
+
+            if (cache.Match(acc, pwd))
+            {
+                cache.Online(acc, client);
+                //回发消息
                 this.Send(client, OpCode.AccountCode, OpAccount.Login, 0, "登录成功");
+            }
+            else
+            {
+                //回发消息
+                this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "账号或密码错误");
             }
         }
 
@@ -68,13 +80,19 @@ namespace MOBAServer.Logic
         /// <param name="pwd"></param>
         public void onRigister(MobaClient client,string acc, string pwd)
         {
-            bool res = cache.Add(acc, pwd);
-
-            if (res == true)
+            //无效检测
+            if (acc == null || pwd == null) return;
+            //重复检测
+            if (cache.Has(acc))
             {
                 //回发消息
-                this.Send(client, OpCode.AccountCode, OpAccount.Login, 0, "注册成功");
+                this.Send(client, OpCode.AccountCode, OpAccount.Register, -1, "账号重复");
             }
+
+            //添加用户
+            cache.Add(acc, pwd);
+            //回发消息
+            this.Send(client, OpCode.AccountCode, OpAccount.Register, 0, "注册成功");
         }
         #endregion
     }

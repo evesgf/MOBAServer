@@ -21,6 +21,7 @@ namespace MOBAServer
         /// <returns></returns>
         protected override PeerBase CreatePeer(InitRequest initRequest)
         {
+            LogInfo("上线："+initRequest.RemoteIP);
             return null;
         }
 

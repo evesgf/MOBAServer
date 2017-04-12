@@ -37,7 +37,6 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
         instance = this;
 
         peer = new PhotonPeer(this, protocol);
-        peer.Connect(serverAddress, applicationName);
     }
 
     // Use this for initialization
@@ -94,7 +93,7 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
 
     public void OnOperationResponse(OperationResponse operationResponse)
     {
-
+        Debug.Log(operationResponse.ToStringFull());
     }
 
     /// <summary>
@@ -103,7 +102,7 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
     /// <param name="statusCode"></param>
     public void OnStatusChanged(StatusCode statusCode)
     {
-        print(statusCode);
+        print(statusCode.ToString());
         switch (statusCode)
         {
             case StatusCode.Connect:

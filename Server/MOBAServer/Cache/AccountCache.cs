@@ -12,6 +12,7 @@ namespace MOBAServer.Cache
     /// </summary>
     public class AccountCache
     {
+        #region 数据
         //账号模型映射
         private Dictionary<string, AccountModel> accModelDict = new Dictionary<string, AccountModel>();
 
@@ -39,17 +40,64 @@ namespace MOBAServer.Cache
         /// <returns></returns>
         public bool Add(string acc, string pwd)
         {
-            //排重
-            if (accModelDict.ContainsKey(acc)) return false;
+            //重复检测
+            if (Has(acc)) return false;
 
             accModelDict[acc] = new AccountModel
             {
-                Id=id++,
+                Id = id++,
                 Account = acc,
                 Password = pwd
             };
 
             return true;
         }
+
+        /// <summary>
+        /// 检测账号是否存在
+        /// </summary>
+        /// <param name="acc"></param>
+        /// <returns></returns>
+        public bool Has(string acc)
+        {
+            return accModelDict.ContainsKey(acc);
+        }
+        #endregion
+
+        #region 在线玩家
+        private Dictionary<MobaClient, string> accClientDict = new Dictionary<MobaClient, string>();
+
+        /// <summary>
+        /// 检测用户是否在线
+        /// </summary>
+        /// <param name="acc"></param>
+        /// <returns></returns>
+        public bool IsOnLine(string acc)
+        {
+            return accClientDict.ContainsValue(acc);
+        }
+
+        /// <summary>
+        /// 添加在线关系
+        /// </summary>
+        /// <param name="acc"></param>
+        /// <param name="client"></param>
+        public bool Online(string acc, MobaClient client)
+        {
+            if (IsOnLine(acc)) return false;
+
+            accClientDict[client] = acc;
+            return true;
+        }
+
+        /// <summary>
+        /// 下线
+        /// </summary>
+        /// <param name="client"></param>
+        public void Offline(MobaClient client)
+        {
+            accClientDict.Remove(client);
+        }
+        #endregion
     }
 }
