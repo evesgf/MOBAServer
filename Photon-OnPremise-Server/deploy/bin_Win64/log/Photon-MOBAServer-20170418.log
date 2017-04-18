@@ -1,0 +1,108 @@
+16940: 19:49:09.565 - ---
+16940: 19:49:09.565 - Service: "Photon Socket Server" starting
+16940: 19:49:09.566 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+16940: 19:49:09.571 - Will produce at most: 10 crash dumps
+16940: 19:49:09.571 - Action: run as exe
+16940: 19:49:09.575 - Server Starting...
+16940: 19:49:09.575 -    Tick count: 39231328 (wraps in: 49.2562 days)
+16940: 19:49:09.575 - Tick count 64: 39231328
+16940: 19:49:09.575 - Photon Version: 4.0.28.2962
+16940: 19:49:09.575 - PID: 16728
+16940: 19:49:09.576 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+16940: 19:49:09.612 - CService::OnException() - Exception: CXMLConfiguration::LoadDocument() - Failed to located required initial child element: "MOBAServer" - Source: "E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config"
+16940: 19:49:09.612 - Server shutting down...
+16940: 19:49:09.612 - Shutting down socket servers...
+16940: 19:49:09.612 - Destroying servers
+16940: 19:49:09.612 - Destroying WebSocket Outbound Connection Manager
+16940: 19:49:09.612 - Destroying TCP Outbound Connection Manager
+16940: 19:49:09.612 - Destroying TCP inactivity timer
+16940: 19:49:09.612 - Destroying ENet timer wheel
+16940: 19:49:09.612 - Destroying ENet host
+16940: 19:49:09.612 - Destroying HTTP inactivity timer
+16940: 19:49:09.612 - Destroying HTTP host
+16940: 19:49:09.612 - Destroying HTTP Chunk host
+16940: 19:49:09.612 - Destroying CLR dispatcher
+16940: 19:49:09.612 - Destroying CLR applications
+16940: 19:49:09.612 - Destroying ENet thread pool
+16940: 19:49:09.612 - Destroying I/O thread pool
+16940: 19:49:09.612 - Destroying ENet buffer allocator
+16940: 19:49:09.612 - Destroying TCP buffer allocator
+16940: 19:49:09.612 - Destroying TCP socket allocator
+16940: 19:49:09.612 - Destroying ENet inbound socket allocator
+16940: 19:49:09.612 - Destroying ENet outbound socket allocator
+16940: 19:49:09.612 - Destroying shared datagram flow control data
+16940: 19:49:09.613 - Shutdown complete...
+16940: 19:49:09.613 - Service shutting down: invalid instance name. Errorcode: 110
+16940: 19:49:09.614 - Service shut down complete
+15548: 19:49:22.081 - ---
+15548: 19:49:22.081 - Service: "Photon Socket Server" starting
+15548: 19:49:22.083 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+15548: 19:49:22.089 - Will produce at most: 10 crash dumps
+15548: 19:49:22.089 - Action: run as exe
+15548: 19:49:22.094 - Server Starting...
+15548: 19:49:22.094 -    Tick count: 39243843 (wraps in: 49.2561 days)
+15548: 19:49:22.094 - Tick count 64: 39243843
+15548: 19:49:22.094 - Photon Version: 4.0.28.2962
+15548: 19:49:22.094 - PID: 16316
+15548: 19:49:22.096 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+15548: 19:49:22.100 - CService::OnException() - Exception: CXMLConfiguration::LoadDocument() - Failed to located required initial child element: "MOBAServer" - Source: "E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config"
+15548: 19:49:22.100 - Server shutting down...
+15548: 19:49:22.100 - Shutting down socket servers...
+15548: 19:49:22.100 - Destroying servers
+15548: 19:49:22.100 - Destroying WebSocket Outbound Connection Manager
+15548: 19:49:22.100 - Destroying TCP Outbound Connection Manager
+15548: 19:49:22.100 - Destroying TCP inactivity timer
+15548: 19:49:22.100 - Destroying ENet timer wheel
+15548: 19:49:22.100 - Destroying ENet host
+15548: 19:49:22.100 - Destroying HTTP inactivity timer
+15548: 19:49:22.100 - Destroying HTTP host
+15548: 19:49:22.100 - Destroying HTTP Chunk host
+15548: 19:49:22.100 - Destroying CLR dispatcher
+15548: 19:49:22.100 - Destroying CLR applications
+15548: 19:49:22.100 - Destroying ENet thread pool
+15548: 19:49:22.100 - Destroying I/O thread pool
+15548: 19:49:22.100 - Destroying ENet buffer allocator
+15548: 19:49:22.100 - Destroying TCP buffer allocator
+15548: 19:49:22.100 - Destroying TCP socket allocator
+15548: 19:49:22.100 - Destroying ENet inbound socket allocator
+15548: 19:49:22.100 - Destroying ENet outbound socket allocator
+15548: 19:49:22.100 - Destroying shared datagram flow control data
+15548: 19:49:22.100 - Shutdown complete...
+15548: 19:49:22.101 - Service shutting down: invalid instance name. Errorcode: 110
+15548: 19:49:22.102 - Service shut down complete
+9740: 19:49:28.208 - ---
+9740: 19:49:28.208 - Service: "Photon Socket Server" starting
+9740: 19:49:28.208 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+9740: 19:49:28.210 - Will produce at most: 10 crash dumps
+9740: 19:49:28.210 - Action: run as exe
+9740: 19:49:28.210 - Server Starting...
+9740: 19:49:28.210 -    Tick count: 39249953 (wraps in: 49.256 days)
+9740: 19:49:28.210 - Tick count 64: 39249953
+9740: 19:49:28.210 - Photon Version: 4.0.28.2962
+9740: 19:49:28.210 - PID: 424
+9740: 19:49:28.210 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+9740: 19:49:28.211 - CService::OnException() - Exception: CXMLConfiguration::LoadDocument() - Failed to located required initial child element: "MOBAServer" - Source: "E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config"
+9740: 19:49:28.211 - Server shutting down...
+9740: 19:49:28.211 - Shutting down socket servers...
+9740: 19:49:28.211 - Destroying servers
+9740: 19:49:28.211 - Destroying WebSocket Outbound Connection Manager
+9740: 19:49:28.211 - Destroying TCP Outbound Connection Manager
+9740: 19:49:28.211 - Destroying TCP inactivity timer
+9740: 19:49:28.211 - Destroying ENet timer wheel
+9740: 19:49:28.211 - Destroying ENet host
+9740: 19:49:28.211 - Destroying HTTP inactivity timer
+9740: 19:49:28.211 - Destroying HTTP host
+9740: 19:49:28.211 - Destroying HTTP Chunk host
+9740: 19:49:28.211 - Destroying CLR dispatcher
+9740: 19:49:28.211 - Destroying CLR applications
+9740: 19:49:28.211 - Destroying ENet thread pool
+9740: 19:49:28.211 - Destroying I/O thread pool
+9740: 19:49:28.211 - Destroying ENet buffer allocator
+9740: 19:49:28.211 - Destroying TCP buffer allocator
+9740: 19:49:28.211 - Destroying TCP socket allocator
+9740: 19:49:28.211 - Destroying ENet inbound socket allocator
+9740: 19:49:28.211 - Destroying ENet outbound socket allocator
+9740: 19:49:28.211 - Destroying shared datagram flow control data
+9740: 19:49:28.211 - Shutdown complete...
+9740: 19:49:28.211 - Service shutting down: invalid instance name. Errorcode: 110
+9740: 19:49:28.211 - Service shut down complete

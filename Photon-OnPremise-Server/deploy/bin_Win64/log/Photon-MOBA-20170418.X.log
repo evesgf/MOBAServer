@@ -1,0 +1,30 @@
+7084: 19:49:45.720 - ---
+7084: 19:49:45.720 - Service: "Photon Socket Server" starting
+7084: 19:49:45.722 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+7084: 19:49:45.725 - Will produce at most: 10 crash dumps
+7084: 19:49:45.725 - Action: run as exe
+7084: 19:49:45.726 - 
+7084: 19:49:45.726 - ERROR: ***************************************************************
+7084: 19:49:45.726 - ERROR: Only one copy of "MOBA" can run at a time
+7084: 19:49:45.726 - ERROR: ***************************************************************
+7084: 19:49:45.726 - 
+7084: 19:49:45.726 - MessageBox: Photon Socket Server: MOBA - 4.0.28.2962
+
+Only one copy of "MOBA" can run at a time
+7084: 19:49:51.324 - Service shutting down: instance already running. Errorcode: 100
+7084: 19:49:51.326 - Service shut down complete
+11132: 19:49:55.523 - ---
+11132: 19:49:55.523 - Service: "Photon Socket Server" starting
+11132: 19:49:55.523 - Config File: E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\bin_Win64\PhotonServer.config
+11132: 19:49:55.524 - Will produce at most: 10 crash dumps
+11132: 19:49:55.525 - Action: run as exe
+11132: 19:49:55.525 - 
+11132: 19:49:55.525 - ERROR: ***************************************************************
+11132: 19:49:55.525 - ERROR: Only one copy of "MOBA" can run at a time
+11132: 19:49:55.525 - ERROR: ***************************************************************
+11132: 19:49:55.525 - 
+11132: 19:49:55.525 - MessageBox: Photon Socket Server: MOBA - 4.0.28.2962
+
+Only one copy of "MOBA" can run at a time
+11132: 19:50:44.556 - Service shutting down: instance already running. Errorcode: 100
+11132: 19:50:44.558 - Service shut down complete

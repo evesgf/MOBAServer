@@ -558,3 +558,780 @@
 2017-04-13 01:18:59,025 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
 2017-04-13 01:18:59,092 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
 2017-04-13 01:18:59,170 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:39,155 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 18:27:52,699 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:52,758 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:52,825 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:52,891 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:52,958 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,023 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,090 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,156 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,225 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,291 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,357 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,423 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,490 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,556 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,622 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,688 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,755 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,821 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,887 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:53,953 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,020 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,086 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,152 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,218 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,285 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,351 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,418 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,483 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,550 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,616 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,682 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,749 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,815 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,881 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:54,947 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,014 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,080 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,146 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,212 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,279 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,345 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,411 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,477 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,544 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,610 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,676 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,743 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,809 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,875 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:55,941 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,008 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,074 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,140 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,207 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,273 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,339 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,405 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,471 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,538 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,604 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,670 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,737 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,803 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,869 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:56,936 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,002 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,068 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,134 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,200 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,267 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,333 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,399 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,466 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,532 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,598 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,664 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,731 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,797 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,863 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,930 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:57,996 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,062 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,128 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,194 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,261 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,327 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,393 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,459 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,526 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,593 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,658 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,725 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,791 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,858 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,923 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:58,989 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,056 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,122 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,189 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,254 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,321 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,387 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,454 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,520 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,586 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,653 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,719 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,785 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,851 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,917 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:27:59,984 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,050 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,116 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,182 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,249 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,315 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,381 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,447 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,513 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,580 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,646 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,712 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,779 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,845 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,912 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:00,977 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,044 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,110 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,176 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,243 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,309 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,375 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,441 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,508 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,574 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,640 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,707 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,773 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,839 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,905 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:01,971 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,038 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,104 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,170 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,237 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,303 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,369 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,436 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,502 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,568 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,634 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,700 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,767 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,833 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,899 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:02,966 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,032 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,098 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,165 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,231 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,297 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,363 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,429 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,496 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,562 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,628 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,694 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,761 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,827 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,893 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:03,960 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,026 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,092 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,158 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,224 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,292 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,358 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,428 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,494 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,561 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,627 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,693 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,760 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,826 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,892 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:04,958 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,025 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,091 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,157 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,223 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,290 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,356 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,422 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,488 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,555 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,621 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,687 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,754 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,819 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,886 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:05,952 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,018 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,084 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,151 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,218 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,283 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,350 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,416 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,483 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,549 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,615 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,681 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,747 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,814 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,880 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:06,947 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,012 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,078 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,145 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,211 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,278 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,344 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,410 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,478 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,544 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,610 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,677 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,743 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,809 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,876 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:07,942 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,008 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,075 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,141 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,207 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,273 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,340 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,406 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,472 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,538 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,604 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,671 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,737 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,803 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,870 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:08,936 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,002 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,069 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,135 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,202 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,267 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,334 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,400 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,466 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,533 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,599 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,665 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,731 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,798 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,864 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,930 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:09,996 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,063 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,129 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,195 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,261 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,328 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,394 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,460 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,530 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,597 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,662 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,729 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,796 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,862 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,928 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:10,994 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,060 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,126 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,193 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,259 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,325 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,391 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,458 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,524 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,591 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,657 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,723 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,789 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,855 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,921 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:11,988 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,054 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,121 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,187 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,253 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,319 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,385 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,452 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,518 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,584 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,651 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,717 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,783 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,849 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,916 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:12,982 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:28:16,349 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:40:36,420 [19] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 18:40:36,455 [19] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 18:40:36,456 [19] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 18:40:41,556 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 18:40:41,568 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 18:40:41,568 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 18:40:44,649 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 18:40:52,476 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 18:40:52,481 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 18:40:52,481 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 18:40:57,747 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 18:44:50,078 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,352 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,418 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,484 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,550 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,616 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,683 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,749 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,816 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,882 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:50,948 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,015 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,081 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,147 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,214 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,280 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,347 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,413 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,479 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,545 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,611 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,678 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,744 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,811 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,876 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:51,943 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,009 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,075 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,141 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,207 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,275 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,341 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,406 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,473 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,539 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,614 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,680 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,746 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,813 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,880 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:52,946 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,011 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,078 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,145 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,210 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,277 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,343 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,409 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,475 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,542 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,608 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,674 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,740 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,807 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:44:53,873 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:45:26,997 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:46:23,747 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:45,706 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:45,772 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:45,838 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:45,905 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:45,971 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,038 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,104 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,170 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,237 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,303 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,369 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,441 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,508 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,574 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,641 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,707 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,773 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,839 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,906 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:46,971 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:47,038 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:47:47,104 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,249 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,315 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,383 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,449 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,519 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,584 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,651 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,721 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,787 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,853 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,920 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:05,986 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:06,052 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:06,119 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:06,186 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:06,251 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:06,318 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:06,384 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:20,271 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,190 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,257 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,323 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,389 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,457 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,524 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,590 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,668 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,736 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,802 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,869 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:51,935 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,001 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,068 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,134 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,200 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,268 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,334 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,400 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,467 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,533 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,599 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,665 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,731 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,798 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,864 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,930 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:52,997 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,063 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,129 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,195 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,262 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,328 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,394 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,461 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,527 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,593 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,659 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,726 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,793 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,858 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,925 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:53,991 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:54,057 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:48:54,128 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 18:55:49,452 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 18:55:49,457 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 18:55:49,457 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:02:55,375 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:03:04,343 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:06:32,529 [14] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:08:17,367 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:08:38,490 [11] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:08:43,859 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:08:50,950 [11] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:09:29,775 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:09:59,401 [14] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:12:28,299 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:13:01,649 [12] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:13:13,266 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:13:47,670 [12] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:16:17,630 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:16:23,226 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:6,ip:127.0.0.1:55891, Data: F3-02-00-00-03-50-62-01-00-73-00-03-31-32-33-01-73-00-04-31-32-33-34,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onRigister(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 86
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 40
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 46
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:16:41,818 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:6,ip:127.0.0.1:55891, Data: F3-02-00-00-02-50-62-00-00-73-00-23-7B-22-41-63-63-6F-75-6E-74-22-3A-22-31-32-33-34-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-31-32-33-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 57
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 32
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 46
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:17:05,742 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:6,ip:127.0.0.1:55891, Data: F3-02-00-00-02-50-62-00-00-73-00-23-7B-22-41-63-63-6F-75-6E-74-22-3A-22-31-32-33-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-31-32-33-34-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 57
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 32
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 46
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:17:38,203 [15] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:17:46,683 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:17:53,007 [10] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:17:57,317 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:18:12,958 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:8,ip:127.0.0.1:58882, Data: F3-02-00-00-02-50-62-00-00-73-00-22-7B-22-41-63-63-6F-75-6E-74-22-3A-22-31-32-33-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-31-32-33-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 57
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 32
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 46
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:21:53,056 [19] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:21:53,078 [19] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:21:53,087 [15] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:21:53,092 [16] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:21:53,092 [16] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:21:53,185 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:21:57,352 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:21:57,356 [12] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:21:57,356 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:21:57,366 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:22:00,522 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:22:00,579 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:22:24,412 [16] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:22:28,682 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:1,ip:127.0.0.1:62824, Data: F3-02-00-00-02-50-62-00-00-73-00-22-7B-22-41-63-63-6F-75-6E-74-22-3A-22-31-32-33-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-32-33-34-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 81
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 32
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 46
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:22:40,912 [10] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:31:41,886 [19] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:31:41,907 [19] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:31:41,908 [15] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 30
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:31:41,909 [12] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:31:41,909 [12] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:31:41,987 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:31:41,988 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:31:43,915 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:31:43,921 [10] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:31:43,921 [12] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:31:43,928 [12] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:31:48,088 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:31:48,142 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:31:48,143 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:32:06,716 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:32:06,717 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:32:11,742 [13] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:1,ip:127.0.0.1:61572, Data: F3-02-00-00-02-50-62-00-00-73-00-1C-7B-22-41-63-63-6F-75-6E-74-22-3A-22-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 81
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 32
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 47
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:32:18,985 [14] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:32:49,697 [14] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:32:53,471 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:32:53,472 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:34:14,082 [19] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:34:14,105 [19] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:34:14,106 [13] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:34:14,108 [12] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:34:14,108 [12] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:34:14,189 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:34:14,190 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:34:15,757 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:34:15,763 [11] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:34:15,763 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:34:15,782 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:34:18,793 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:34:30,791 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:34:30,792 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:34:39,399 [14] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-18 19:34:39,534 [14] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:0,ip:127.0.0.1:54053, Data: F3-02-00-00-02-50-62-00-00-73-00-1C-7B-22-41-63-63-6F-75-6E-74-22-3A-22-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 81
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 32
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 49
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:34:46,988 [15] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:38:30,474 [19] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:38:30,496 [19] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:38:30,498 [19] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:38:30,498 [19] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:38:32,174 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:38:32,178 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:38:32,179 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:38:52,400 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:38:56,403 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:38:56,404 [14] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:39:02,899 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-18 19:39:03,010 [11] INFO  MOBAServer.MobaApplication - Account处理请求：0_Photon.SocketServer.OperationRequest
+2017-04-18 19:39:03,039 [11] INFO  MOBAServer.MobaApplication - AccountDto：_
+2017-04-18 19:39:03,040 [11] INFO  MOBAServer.MobaApplication - onLogin：_
+2017-04-18 19:39:03,041 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:0,ip:127.0.0.1:63695, Data: F3-02-00-00-02-50-62-00-00-73-00-1C-7B-22-41-63-63-6F-75-6E-74-22-3A-22-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 89
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 39
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 49
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:49:17,363 [15] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:50:51,501 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-18 19:50:51,504 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-18 19:50:51,504 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-18 19:50:57,411 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:51:17,102 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:51:31,074 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:51:33,297 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-18 19:51:33,429 [11] INFO  MOBAServer.MobaApplication - Account处理请求：0_Photon.SocketServer.OperationRequest
+2017-04-18 19:52:00,542 [11] INFO  MOBAServer.MobaApplication - AccountDto：_
+2017-04-18 19:52:00,551 [11] INFO  MOBAServer.MobaApplication - onLogin：_
+2017-04-18 19:52:49,370 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:0,ip:127.0.0.1:63520, Data: F3-02-00-00-02-50-62-00-00-73-00-1C-7B-22-41-63-63-6F-75-6E-74-22-3A-22-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 89
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 39
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 49
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 19:52:52,086 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-18 19:52:52,087 [11] INFO  MOBAServer.MobaApplication - Account处理请求：0_Photon.SocketServer.OperationRequest
+2017-04-18 19:52:55,347 [11] INFO  MOBAServer.MobaApplication - AccountDto：_
+2017-04-18 19:52:55,347 [11] INFO  MOBAServer.MobaApplication - onLogin：_
+2017-04-18 19:53:17,925 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 19:53:17,981 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:53:17,983 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:53:25,374 [11] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.OnDisconnect(MobaClient client) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 31
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-18 19:53:29,737 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 19:53:29,738 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 19:53:33,708 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-18 19:53:33,830 [10] INFO  MOBAServer.MobaApplication - Account处理请求：0_Photon.SocketServer.OperationRequest
+2017-04-18 19:53:33,857 [10] INFO  MOBAServer.MobaApplication - AccountDto：_
+2017-04-18 19:53:33,858 [10] INFO  MOBAServer.MobaApplication - onLogin：_
+2017-04-18 21:22:46,820 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 21:23:23,866 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 21:23:23,868 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 21:23:27,696 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-18 21:23:27,843 [11] INFO  MOBAServer.MobaApplication - Account处理请求：0_Photon.SocketServer.OperationRequest
+2017-04-18 21:23:27,873 [11] INFO  MOBAServer.MobaApplication - AccountDto：123_234
+2017-04-18 21:23:27,874 [11] INFO  MOBAServer.MobaApplication - onLogin：123_234
+2017-04-18 21:23:39,288 [11] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:0,ip:127.0.0.1:60391, Data: F3-02-00-00-02-50-62-00-00-73-00-22-7B-22-41-63-63-6F-75-6E-74-22-3A-22-31-32-33-22-2C-22-50-61-73-73-77-6F-72-64-22-3A-22-32-33-34-22-7D,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onLogin(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 89
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 39
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 49
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 21:24:06,818 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 21:24:15,440 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 21:24:15,441 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 21:24:21,739 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-18 21:24:21,837 [10] INFO  MOBAServer.MobaApplication - Account处理请求：1_Photon.SocketServer.OperationRequest
+2017-04-18 21:24:47,278 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 21:24:53,520 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 21:24:53,521 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 21:24:57,877 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-18 21:24:57,968 [10] INFO  MOBAServer.MobaApplication - Account处理请求：1_Photon.SocketServer.OperationRequest
+2017-04-18 21:25:27,243 [10] ERROR Photon.SocketServer.PeerBase - exception during handling of data.Peer:T:MobaClient,ConnId:0,ip:127.0.0.1:60104, Data: F3-02-00-00-03-50-62-01-00-73-00-03-31-32-33-01-73-00-03-32-33-34,
+Exception:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MOBAServer.Logic.AccountHandler.onRigister(MobaClient client, String acc, String pwd) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 103
+   在 MOBAServer.Logic.AccountHandler.OnRequest(MobaClient client, Byte subCode, OperationRequest request) 位置 E:\Dev\MOBAServer\Server\MOBAServer\Logic\AccountHandler.cs:行号 47
+   在 MOBAServer.MobaClient.OnOperationRequest(OperationRequest operationRequest, SendParameters sendParameters) 位置 E:\Dev\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 49
+   在 Photon.SocketServer.PeerBase.OnReceive(Byte[] data, SendParameters sendParameters) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1243
+   在 Photon.SocketServer.PeerBase.OnReceiveInternal(Byte[] data, SendParameters sendParameters, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 988
+2017-04-18 21:26:29,374 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-18 21:26:46,365 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 21:26:46,366 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 21:34:35,244 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-18 21:34:42,892 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-18 21:42:07,283 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-18 21:42:07,284 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-18 21:42:11,395 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-18 21:42:21,796 [12] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-18 21:43:00,222 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters

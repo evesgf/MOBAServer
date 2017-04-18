@@ -21,13 +21,18 @@ namespace MOBAServer.Logic
             cache.Offline(client);
         }
 
+        /// <summary>
+        /// 收到请求时的处理
+        /// </summary>
+        /// <param name="client"></param>
+        /// <param name="subCode"></param>
+        /// <param name="request"></param>
         public void OnRequest(MobaClient client, byte subCode, OperationRequest request)
         {
             switch (subCode)
             {
                 case OpAccount.Login:
                     AccountDto dto = JsonMapper.ToObject<AccountDto>(request[0].ToString());
-
                     //验证账号密码是否合法
                     onLogin(client,dto.Account, dto.Password);
                     break;
@@ -52,24 +57,32 @@ namespace MOBAServer.Logic
         {
             //无效检测
             if (acc == null || pwd == null) return;
+            try
+            {
+                //TODO:验证在线...
+                if (cache.IsOnLine(acc))
+                {
+                    //回发消息
+                    this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "此玩家已在线");
+                }
 
-            //TODO:验证在线...
-            if (cache.IsOnLine(acc))
-            {
-                //回发消息
-                this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "此玩家已在线");
+                if (cache.Match(acc, pwd))
+                {
+                    cache.Online(acc, client);
+                    //回发消息
+                    this.Send(client, OpCode.AccountCode, OpAccount.Login, 0, "登录成功");
+                }
+                else
+                {
+                    //回发消息
+                    this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "账号或密码错误");
+                }
             }
+            catch (Exception e)
+            {
 
-            if (cache.Match(acc, pwd))
-            {
-                cache.Online(acc, client);
                 //回发消息
-                this.Send(client, OpCode.AccountCode, OpAccount.Login, 0, "登录成功");
-            }
-            else
-            {
-                //回发消息
-                this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "账号或密码错误");
+                this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, cache.ToString()+e.ToString());
             }
         }
 
@@ -87,6 +100,7 @@ namespace MOBAServer.Logic
             {
                 //回发消息
                 this.Send(client, OpCode.AccountCode, OpAccount.Register, -1, "账号重复");
+                return;
             }
 
             //添加用户

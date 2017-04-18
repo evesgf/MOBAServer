@@ -13,6 +13,8 @@ public class LoginView : MonoBehaviour {
 
     public GameObject objRegister;
 
+    public PhotonMgr pmgr;
+
     public void Login()
     {
         AccountDto dto = new AccountDto()
@@ -22,7 +24,7 @@ public class LoginView : MonoBehaviour {
         };
 
         //发送登录请求
-        PhotonMgr.Instance.Request(OpCode.AccountCode, OpAccount.Login, JsonMapper.ToJson(dto));
+        pmgr.Request(OpCode.AccountCode, OpAccount.Login, JsonMapper.ToJson(dto));
     }
 
     public void Register()

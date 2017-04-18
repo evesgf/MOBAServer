@@ -9,9 +9,11 @@ public class RegisterView : MonoBehaviour {
     public InputField account;
     public InputField password;
 
+    public PhotonMgr pmgr;
+
     public void Register()
     {
-        PhotonMgr.Instance.Request(OpCode.AccountCode, OpAccount.Register,account,password);
+        pmgr.Request(OpCode.AccountCode, OpAccount.Register,account.text,password.text);
     }
 
     public void Return()

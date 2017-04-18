@@ -2,6 +2,7 @@
 using ExitGames.Logging.Log4Net;
 using log4net;
 using log4net.Config;
+using MOBAServer.Cache;
 using Photon.SocketServer;
 using System;
 using System.Collections.Generic;
@@ -22,7 +23,7 @@ namespace MOBAServer
         protected override PeerBase CreatePeer(InitRequest initRequest)
         {
             LogInfo("上线："+initRequest.RemoteIP);
-            return null;
+            return new MobaClient(initRequest);
         }
 
         /// <summary>
@@ -31,6 +32,7 @@ namespace MOBAServer
         protected override void Setup()
         {
             InitLogging();
+            new Caches();
         }
 
         /// <summary>
@@ -38,7 +40,7 @@ namespace MOBAServer
         /// </summary>
         protected override void TearDown()
         {
-
+            LogInfo("Server Tear Down");
         }
 
         #region 日志功能
