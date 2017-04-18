@@ -17,6 +17,7 @@ namespace MOBAServer
 
         public MobaClient(InitRequest initRequest) : base(initRequest)
         {
+            MobaApplication.LogInfo("创建：" + initRequest.RemoteIP);
             account = new AccountHandler();
         }
 
@@ -39,6 +40,8 @@ namespace MOBAServer
         {
             byte opCode = operationRequest.OperationCode;
             byte subCode = (byte)operationRequest[80];
+
+            MobaApplication.LogInfo("客户端请求：" + opCode+"_"+subCode+"_"+ sendParameters);
 
             switch (opCode)
             {
