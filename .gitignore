@@ -7,3 +7,5 @@
 /Photon-OnPremise-Server/doc
 /Photon-OnPremise-Server/lib
 /Photon-OnPremise-Server/deploy/MOBA/bin
+/Server/MOBAServer/obj
+/Photon-OnPremise-Server/deploy/bin_Win64/log
