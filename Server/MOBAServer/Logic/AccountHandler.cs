@@ -64,6 +64,7 @@ namespace MOBAServer.Logic
                 {
                     //回发消息
                     this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "此玩家已在线");
+                    return;
                 }
 
                 if (cache.Match(acc, pwd))
@@ -71,11 +72,13 @@ namespace MOBAServer.Logic
                     cache.Online(acc, client);
                     //回发消息
                     this.Send(client, OpCode.AccountCode, OpAccount.Login, 0, "登录成功");
+                    return;
                 }
                 else
                 {
                     //回发消息
                     this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, "账号或密码错误");
+                    return;
                 }
             }
             catch (Exception e)
@@ -83,6 +86,7 @@ namespace MOBAServer.Logic
 
                 //回发消息
                 this.Send(client, OpCode.AccountCode, OpAccount.Login, -1, cache.ToString()+e.ToString());
+                return;
             }
         }
 

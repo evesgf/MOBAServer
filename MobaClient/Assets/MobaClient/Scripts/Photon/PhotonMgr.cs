@@ -93,7 +93,7 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
 
     public void OnOperationResponse(OperationResponse operationResponse)
     {
-        Debug.Log(operationResponse.ToStringFull());
+        LogMgr.Debug(operationResponse.ToStringFull());
     }
 
     /// <summary>
@@ -102,7 +102,7 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
     /// <param name="statusCode"></param>
     public void OnStatusChanged(StatusCode statusCode)
     {
-        print(statusCode.ToString());
+        LogMgr.Debug(statusCode.ToString());
         switch (statusCode)
         {
             case StatusCode.Connect:
