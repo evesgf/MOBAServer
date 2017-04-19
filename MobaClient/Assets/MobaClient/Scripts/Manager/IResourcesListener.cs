@@ -7,5 +7,5 @@ public interface IResourcesListener
     /// 加载成功
     /// </summary>
     /// <param name="asset"></param>
-    void OnLoaded(object asset);
+    void OnLoaded(string assetName, object asset);
 }

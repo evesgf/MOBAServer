@@ -7,6 +7,7 @@ public class AppStart : MonoBehaviour,IResourcesListener {
 	void Start () {
 
         ResourcesMgr.Create();
+        SoundMgr.Create();
         PhotonMgr.Create();
         MessageTipView.Create();
     }
@@ -19,7 +20,7 @@ public class AppStart : MonoBehaviour,IResourcesListener {
         }
     }
 
-    public void OnLoaded(object asset)
+    public void OnLoaded(string assetName, object asset)
     {
         Instantiate<GameObject>(asset as GameObject);
     }

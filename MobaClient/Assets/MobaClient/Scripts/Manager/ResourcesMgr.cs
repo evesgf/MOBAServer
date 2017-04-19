@@ -37,14 +37,14 @@ public class ResourcesMgr : SingletonMono<ResourcesMgr> {
                     LoadAssets asset = loadingList[i];
                     for (int j = 0; j < asset.Listeners.Count; j++)
                     {
-                        asset.Listeners[i].OnLoaded(asset.GetAsset);
-                        loadingList.RemoveAt(i);
+                        asset.Listeners[j].OnLoaded(asset.AssetName,asset.GetAsset);
                     }
+                    loadingList.RemoveAt(i);
                 }
             }
         }
 
-        while (waitingQue.Count > 0 && loadingList.Count > maxLoadNum)
+        while (waitingQue.Count > 0 && loadingList.Count < maxLoadNum)
         {
             LoadAssets asset = waitingQue.Dequeue();
             loadingList.Add(asset);
@@ -57,7 +57,7 @@ public class ResourcesMgr : SingletonMono<ResourcesMgr> {
         //如果已经加载，直接返回
         if (nameAssetDict.ContainsKey(assetName))
         {
-            listener.OnLoaded(nameAssetDict[assetName]);
+            listener.OnLoaded(assetName,nameAssetDict[assetName]);
             return;
         }
         else
