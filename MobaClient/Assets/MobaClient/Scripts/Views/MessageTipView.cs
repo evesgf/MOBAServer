@@ -2,9 +2,11 @@
 using System.Collections;
 using UnityEngine.UI;
 using System;
+using LarkFramework;
 
-public class MessageTipView : MonoBehaviour {
+public class MessageTipView : SingletonMono<MessageTipView> {
 
+    public GameObject messageTip;
     public Text message;
 
     /// <summary>
@@ -17,9 +19,9 @@ public class MessageTipView : MonoBehaviour {
     /// </summary>
     /// <param name="text"></param>
     /// <param name="action"></param>
-    public void Show(string text,Action action)
+    public void Show(string text,Action action=null)
     {
-        gameObject.SetActive(true);
+        messageTip.SetActive(true);
         message.text = text;
         onCompleted = action;
     }
@@ -29,7 +31,7 @@ public class MessageTipView : MonoBehaviour {
     /// </summary>
     public void OnClick()
     {
-        gameObject.SetActive(false);
+        messageTip.SetActive(false);
         if (onCompleted != null)
         {
             onCompleted();

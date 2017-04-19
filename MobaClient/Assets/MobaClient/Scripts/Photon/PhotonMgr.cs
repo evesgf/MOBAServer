@@ -3,15 +3,26 @@ using System.Collections;
 using ExitGames.Client.Photon;
 using System;
 using System.Collections.Generic;
+using LarkFramework;
+using MOBACommon.OpCode;
 
-public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
+public class PhotonMgr : SingletonMono<PhotonMgr>,IPhotonPeerListener {
 
-    private static PhotonMgr instance;
-    /// <summary>
-    /// 单例组件
-    /// </summary>
-    public static PhotonMgr Instance { get; set; }
+    #region Receivers 2017-4-19 14:42:04
+    //账号
+    private AccountReceiver account;
+    public AccountReceiver Account
+    {
+        get
+        {
+            if (account == null)
+                account = FindObjectOfType<AccountReceiver>();
+            return account;
+        }
+    }
+    #endregion
 
+    #region Photon接口 2017-4-19 14:42:01
     /// <summary>
     /// IP地址
     /// </summary>
@@ -30,12 +41,11 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
     /// </summary>
     private ConnectionProtocol protocol = ConnectionProtocol.Udp;
 
-    private bool isConnect=false;
+    private bool isConnect = false;
+    #endregion
 
     void Awake()
     {
-        instance = this;
-
         peer = new PhotonPeer(this, protocol);
     }
 
@@ -91,9 +101,27 @@ public class PhotonMgr : MonoBehaviour,IPhotonPeerListener {
 
     }
 
-    public void OnOperationResponse(OperationResponse operationResponse)
+    /// <summary>
+    /// 接收服务器的响应
+    /// </summary>
+    /// <param name="response"></param>
+    public void OnOperationResponse(OperationResponse response)
     {
-        LogMgr.Debug(operationResponse.ToStringFull());
+        LogMgr.Debug(response.ToStringFull());
+
+        byte opCode = response.OperationCode;
+        byte subCode = (byte)response[80];
+
+        //转接
+        switch (opCode)
+        {
+            case OpCode.AccountCode:
+                Account.OnReceive(subCode, response);
+                break;
+
+            default:
+                break;
+        }
     }
 
     /// <summary>
