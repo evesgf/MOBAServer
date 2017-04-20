@@ -8,14 +8,18 @@ public class AppStart : MonoBehaviour,IResourcesListener {
 
         ResourcesMgr.Create();
         SoundMgr.Create();
+        UIMgr.Create();
         PhotonMgr.Create();
         MessageTipView.Create();
+
     }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
+            UIMgr.Instance.HideUIPanel(UIDefinit.UILogin);
+            UIMgr.Instance.ShowUIPanel(UIDefinit.UIMain);
             ResourcesMgr.Instance.Load("一个测试用的玩意", typeof(GameObject), this);
         }
     }

@@ -6,7 +6,7 @@ using MOBACommon.OpCode;
 using LitJson;
 using System;
 
-public class LoginView : MonoBehaviour,IResourcesListener {
+public class LoginView : UIBase,IResourcesListener {
 
     [Header("登录模块")]
     public InputField account;
@@ -21,7 +21,7 @@ public class LoginView : MonoBehaviour,IResourcesListener {
     private AudioClip clickClip;
     #endregion
 
-    private void Start()
+    private void  LoadAudio()
     {
         ResourcesMgr.Instance.Load(Paths.RES_SOUND_UI+"bgm", typeof(AudioClip), this);
         ResourcesMgr.Instance.Load(Paths.RES_SOUND_UI + "click", typeof(AudioClip), this);
@@ -63,4 +63,35 @@ public class LoginView : MonoBehaviour,IResourcesListener {
         SoundMgr.Instance.PlayEffectMusic(clickClip);
         objRegister.SetActive(true);
     }
+
+    #region UIBase 2017-4-20 14:13:58
+
+    public override string uiName()
+    {
+        return UIDefinit.UILogin;
+    }
+
+    public override void Init()
+    {
+        //LoadAudio();
+    }
+
+    public override void OnShow()
+    {
+        canvasGroup.alpha = 1;
+        canvasGroup.interactable = true;
+    }
+
+    public override void OnHide()
+    {
+        canvasGroup.alpha = 0;
+        canvasGroup.interactable = false;
+    }
+
+    public override void OnDestroy()
+    {
+        bgClip = null;
+        clickClip = null;
+    }
+    #endregion
 }
