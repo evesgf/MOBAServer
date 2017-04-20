@@ -61,6 +61,39 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="SALSA">
+      <HintPath>Assets\CommonPack\Crazy Minnow Studio\SALSA with RandomEyes\Plugins\SALSA.dll</HintPath>
+    </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\CommonPack\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\CommonPack\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="GETween">
+      <HintPath>Assets\CommonPack\GUI Animator\Common\Plugins\GETween.dll</HintPath>
+    </Reference>
+    <Reference Include="GUIAnimator">
+      <HintPath>Assets\CommonPack\GUI Animator\GUI Animator for Unity UI\Plugins\GUIAnimator.dll</HintPath>
+    </Reference>
+    <Reference Include="Vectrosity">
+      <HintPath>Assets\CommonPack\Plugins\Vectrosity.dll</HintPath>
+    </Reference>
+    <Reference Include="SSAA">
+      <HintPath>Assets\CommonPack\Super Sampling (SSAA)\Data\SSAA.dll</HintPath>
+    </Reference>
     <Reference Include="LitJson">
       <HintPath>Assets\MobaClient\Puglins\LitJson.dll</HintPath>
     </Reference>
@@ -69,39 +102,6 @@
     </Reference>
     <Reference Include="Photon3Unity3D">
       <HintPath>Assets\MobaClient\Puglins\Photon3Unity3D.dll</HintPath>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>Assets\CommonPack\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
-    </Reference>
-    <Reference Include="GETween">
-      <HintPath>Assets\CommonPack\GUI Animator\Common\Plugins\GETween.dll</HintPath>
-    </Reference>
-    <Reference Include="GUIAnimator">
-      <HintPath>Assets\CommonPack\GUI Animator\GUI Animator for Unity UI\Plugins\GUIAnimator.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween46">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween46.dll</HintPath>
-    </Reference>
-    <Reference Include="SSAA">
-      <HintPath>Assets\CommonPack\Super Sampling (SSAA)\Data\SSAA.dll</HintPath>
-    </Reference>
-    <Reference Include="SALSA">
-      <HintPath>Assets\CommonPack\Crazy Minnow Studio\SALSA with RandomEyes\Plugins\SALSA.dll</HintPath>
-    </Reference>
-    <Reference Include="Vectrosity">
-      <HintPath>Assets\CommonPack\Plugins\Vectrosity.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>Assets\CommonPack\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween50">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween50.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>Assets\CommonPack\Demigiant\DOTween\DOTween43.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -284,8 +284,12 @@
     <Compile Include="Assets\MobaClient\Scripts\Photon\Receiver\AccountReceiver.cs" />
     <Compile Include="Assets\MobaClient\Scripts\Photon\Receiver\IReceiver.cs" />
     <Compile Include="Assets\MobaClient\Scripts\Views\LoginView.cs" />
+    <Compile Include="Assets\MobaClient\Scripts\Views\MainView.cs" />
     <Compile Include="Assets\MobaClient\Scripts\Views\MessageTipView.cs" />
     <Compile Include="Assets\MobaClient\Scripts\Views\RegisterView.cs" />
+    <Compile Include="Assets\MobaClient\Scripts\Views\UIBase.cs" />
+    <Compile Include="Assets\MobaClient\Scripts\Views\UIDefinit.cs" />
+    <Compile Include="Assets\MobaClient\Scripts\Views\UIMgr.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\CommonPack\Crazy Minnow Studio\Documentation\Documentation.txt" />

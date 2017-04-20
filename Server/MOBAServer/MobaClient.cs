@@ -14,11 +14,13 @@ namespace MOBAServer
     {
         //账号逻辑
         IOpHandler account;
+        IOpHandler player;
 
         public MobaClient(InitRequest initRequest) : base(initRequest)
         {
             MobaApplication.LogInfo("创建：" + initRequest.RemoteIP);
             account = new AccountHandler();
+            player = new PlayerHandler();
         }
 
         /// <summary>
@@ -28,6 +30,9 @@ namespace MOBAServer
         /// <param name="reasonDetail"></param>
         protected override void OnDisconnect(DisconnectReason reasonCode, string reasonDetail)
         {
+            player.OnDisconnect(this);
+
+            //注意释放顺序
             account.OnDisconnect(this);
         }
 
@@ -47,6 +52,10 @@ namespace MOBAServer
             {
                 case OpCode.AccountCode:
                     account.OnRequest(this, subCode, operationRequest);
+                    break;
+
+                case OpCode.PlayerCode:
+                    player.OnRequest(this, subCode, operationRequest);
                     break;
 
                 default:

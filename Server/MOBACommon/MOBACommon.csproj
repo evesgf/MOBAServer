@@ -41,6 +41,7 @@
     <Compile Include="Dto\AccountDto.cs" />
     <Compile Include="OpCode\OpAccount.cs" />
     <Compile Include="OpCode\OpCode.cs" />
+    <Compile Include="OpCode\OpPlayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -99,5 +99,22 @@ namespace MOBAServer.Cache
             accClientDict.Remove(client);
         }
         #endregion
+
+        /// <summary>
+        /// 根据链接对象获取Id
+        /// </summary>
+        /// <param name="client"></param>
+        /// <returns></returns>
+        public int GetId(MobaClient client)
+        {
+            if (accClientDict.ContainsKey(client))
+                return -1;
+
+            string account = accClientDict[client];
+            if (!accModelDict.ContainsKey(account))
+                return -1;
+
+            return accModelDict[account].Id;
+        }
     }
 }

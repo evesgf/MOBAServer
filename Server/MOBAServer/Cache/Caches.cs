@@ -9,10 +9,12 @@ namespace MOBAServer.Cache
     public class Caches
     {
         public static AccountCache Account;
+        public static PlayerCache Player;
 
         public Caches()
         {
             Account = new AccountCache();
+            Player = new PlayerCache();
         }
     }
 }
