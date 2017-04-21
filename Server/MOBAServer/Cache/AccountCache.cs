@@ -1,4 +1,5 @@
-﻿using MOBAServer.Model;
+﻿using ExitGames.Threading;
+using MOBAServer.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,7 @@ namespace MOBAServer.Cache
     {
         #region 数据
         //账号模型映射
-        private Dictionary<string, AccountModel> accModelDict = new Dictionary<string, AccountModel>();
+        private SynchronizedDictionary<string, AccountModel> accModelDict = new SynchronizedDictionary<string, AccountModel>();
 
         /// <summary>
         /// 匹配账号密码是否正确
@@ -65,7 +66,9 @@ namespace MOBAServer.Cache
         #endregion
 
         #region 在线玩家
-        private Dictionary<MobaClient, string> accClientDict = new Dictionary<MobaClient, string>();
+        private SynchronizedDictionary<MobaClient, string> clientAccDict = new SynchronizedDictionary<MobaClient, string>();
+        //双向映射
+        private SynchronizedDictionary<string, MobaClient> accClientDict = new SynchronizedDictionary<string, MobaClient>();
 
         /// <summary>
         /// 检测用户是否在线
@@ -74,7 +77,7 @@ namespace MOBAServer.Cache
         /// <returns></returns>
         public bool IsOnLine(string acc)
         {
-            return accClientDict.ContainsValue(acc);
+            return accClientDict.ContainsKey(acc);
         }
 
         /// <summary>
@@ -86,7 +89,8 @@ namespace MOBAServer.Cache
         {
             if (IsOnLine(acc)) return false;
 
-            accClientDict[client] = acc;
+            clientAccDict[client] = acc;
+            accClientDict[acc] = client;
             return true;
         }
 
@@ -96,7 +100,13 @@ namespace MOBAServer.Cache
         /// <param name="client"></param>
         public void Offline(MobaClient client)
         {
-            accClientDict.Remove(client);
+            string acc = clientAccDict[client];
+
+            if (accClientDict.ContainsKey(acc))
+                accClientDict.Remove(acc);
+
+            if (clientAccDict.ContainsKey(client))
+                clientAccDict.Remove(client);
         }
         #endregion
 
@@ -107,10 +117,10 @@ namespace MOBAServer.Cache
         /// <returns></returns>
         public int GetId(MobaClient client)
         {
-            if (accClientDict.ContainsKey(client))
+            if (!clientAccDict.ContainsKey(client))
                 return -1;
 
-            string account = accClientDict[client];
+            string account = clientAccDict[client];
             if (!accModelDict.ContainsKey(account))
                 return -1;
 

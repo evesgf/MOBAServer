@@ -27,6 +27,15 @@ namespace MOBAServer.Logic
                     GetInfo(client);
                     break;
 
+                case OpPlayer.Create:
+                    string name = request[0].ToString();
+                    OnCreate(client,name);
+                    break;
+
+                case OpPlayer.Online:
+                    //TODO
+                    break;
+
                 default:
                     break;
             }
@@ -55,6 +64,16 @@ namespace MOBAServer.Logic
                 Send(client, OpCode.PlayerCode, OpPlayer.GetInfo, -2, "没有角色");
                 return;
             }
+        }
+
+        private void OnCreate(MobaClient client, string name)
+        {
+            int accId = accountCache.GetId(client);
+            if (playerCache.Has(accId)) return;
+
+            //创建
+            playerCache.Create(name, accId);
+            Send(client, OpCode.PlayerCode, OpPlayer.Create, 0, "创建成功");
         }
     }
 }

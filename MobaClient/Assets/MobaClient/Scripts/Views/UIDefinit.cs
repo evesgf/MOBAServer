@@ -12,4 +12,9 @@ public class UIDefinit {
     /// 主场景UI
     /// </summary>
     public const string UIMain = Paths.RES_UI + "MainCanvas";
+
+    /// <summary>
+    /// 创建角色
+    /// </summary>
+    public const string UICreate= Paths.RES_UI + "CreateCanvas";
 }

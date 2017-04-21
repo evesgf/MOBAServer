@@ -12,8 +12,6 @@ public class AccountReceiver : MonoBehaviour,IReceiver
         switch (subCode)
         {
             case OpAccount.Login:
-                UIMgr.Instance.HideUIPanel(UIDefinit.UILogin);
-                UIMgr.Instance.ShowUIPanel(UIDefinit.UIMain);
                 OnLogin(response.ReturnCode,response.DebugMessage);
                 break;
 
@@ -36,6 +34,8 @@ public class AccountReceiver : MonoBehaviour,IReceiver
         {
             case 0:
                 //成功 登录成功
+                UIMgr.Instance.HideUIPanel(UIDefinit.UILogin);
+                UIMgr.Instance.ShowUIPanel(UIDefinit.UIMain);
                 break;
 
             case -1:

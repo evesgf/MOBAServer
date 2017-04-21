@@ -52,3 +52,114 @@
 2017-04-19 18:26:49,947 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
 2017-04-19 18:26:49,984 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
 2017-04-19 18:26:49,984 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-21 13:08:54,426 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-21 13:37:28,149 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:37:28,151 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:52:24,773 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:52:24,773 [14] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:53:58,320 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:53:58,320 [14] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:54:11,936 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:54:11,937 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:54:38,177 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:54:38,178 [14] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:54:58,464 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:54:58,465 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:55:11,220 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:55:11,220 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:56:40,340 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:56:40,341 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:56:57,061 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 13:57:23,000 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:57:23,000 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:57:51,065 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:57:51,065 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:59:00,363 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:59:00,364 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:59:26,322 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:59:26,323 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 13:59:48,192 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 13:59:48,192 [14] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:00:00,456 [14] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:01:38,748 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:01:38,748 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:01:43,413 [14] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:02:10,357 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:02:10,357 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:02:26,498 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:02:45,832 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:02:45,833 [14] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:02:51,318 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:05:32,623 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:05:32,624 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:05:50,857 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:05:50,858 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:06:30,095 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:06:30,095 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:06:38,236 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-21 14:06:44,604 [15] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:06:44,633 [13] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:07:01,413 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:07:01,414 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:07:08,256 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-21 14:07:13,644 [15] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:07:13,657 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:15:12,545 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-21 14:15:12,551 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-21 14:15:12,552 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-21 14:15:21,512 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-21 14:15:26,264 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:15:26,266 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:15:32,652 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:15:42,386 [16] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:15:46,260 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-21 14:15:49,873 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:15:49,893 [14] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:16:36,429 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-21 14:16:38,238 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:16:38,240 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:16:46,094 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-21 14:16:50,313 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:16:50,358 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:18:11,536 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Dev\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-21 14:18:55,188 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:18:55,189 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:19:00,674 [15] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-21 14:19:04,398 [12] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:19:04,442 [10] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:34:27,669 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:34:27,670 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:34:37,512 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:34:37,544 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:35:02,745 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:35:02,746 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:35:06,616 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:35:06,651 [15] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:36:13,641 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:36:13,641 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:36:24,386 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:36:24,387 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:36:27,933 [15] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:36:27,969 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:36:39,362 [13] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:36:39,362 [13] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:44:45,741 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:44:45,742 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:45:13,801 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:45:13,832 [10] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 14:45:52,340 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 14:45:52,341 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 14:45:55,268 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 14:45:55,299 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 15:09:07,098 [14] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 15:09:07,098 [14] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 15:09:11,501 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 15:09:11,572 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 16:07:17,697 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-21 16:07:17,698 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-21 16:07:23,851 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-21 16:07:23,922 [15] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-21 16:07:27,235 [15] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-21 19:17:50,354 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-21 19:17:50,448 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-21 19:17:50,449 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA

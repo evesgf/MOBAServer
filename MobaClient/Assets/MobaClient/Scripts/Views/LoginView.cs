@@ -14,8 +14,6 @@ public class LoginView : UIBase,IResourcesListener {
 
     public GameObject objRegister;
 
-    public PhotonMgr pmgr;
-
     #region music 2017-4-20 00:11:03
     private AudioClip bgClip;
     private AudioClip clickClip;
@@ -23,8 +21,8 @@ public class LoginView : UIBase,IResourcesListener {
 
     private void  LoadAudio()
     {
-        ResourcesMgr.Instance.Load(Paths.RES_SOUND_UI+"bgm", typeof(AudioClip), this);
-        ResourcesMgr.Instance.Load(Paths.RES_SOUND_UI + "click", typeof(AudioClip), this);
+        ResourcesMgr.Instance.Load(Paths.GetSoundFullName("bgm"), typeof(AudioClip), this);
+        ResourcesMgr.Instance.Load(Paths.GetSoundFullName("click"), typeof(AudioClip), this);
     }
 
     public void OnLoaded(string assetName, object asset)
@@ -55,7 +53,7 @@ public class LoginView : UIBase,IResourcesListener {
         SoundMgr.Instance.PlayEffectMusic(clickClip);
 
         //发送登录请求
-        pmgr.Request(OpCode.AccountCode, OpAccount.Login, JsonMapper.ToJson(dto));
+        PhotonMgr.Instance.Request(OpCode.AccountCode, OpAccount.Login, JsonMapper.ToJson(dto));
     }
 
     public void Register()
@@ -73,7 +71,7 @@ public class LoginView : UIBase,IResourcesListener {
 
     public override void Init()
     {
-        //LoadAudio();
+        LoadAudio();
     }
 
     public override void OnShow()

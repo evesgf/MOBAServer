@@ -20,6 +20,19 @@ public class PhotonMgr : SingletonMono<PhotonMgr>,IPhotonPeerListener {
             return account;
         }
     }
+
+    //角色
+    private PlayerReceiver player;
+    public PlayerReceiver Player
+    {
+        get
+        {
+            if (player == null)
+                player = FindObjectOfType<PlayerReceiver>();
+            return player;
+        }
+    }
+
     #endregion
 
     #region Photon接口 2017-4-19 14:42:01
@@ -117,6 +130,10 @@ public class PhotonMgr : SingletonMono<PhotonMgr>,IPhotonPeerListener {
         {
             case OpCode.AccountCode:
                 Account.OnReceive(subCode, response);
+                break;
+
+            case OpCode.PlayerCode:
+                Player.OnReceive(subCode, response);
                 break;
 
             default:
