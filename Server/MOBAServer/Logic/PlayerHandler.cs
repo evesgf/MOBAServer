@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using Photon.SocketServer;
 using MOBACommon.OpCode;
 using MOBAServer.Cache;
+using MOBACommon.Dto;
+using LitJson;
+using MOBAServer;
 
 namespace MOBAServer.Logic
 {
@@ -16,11 +19,12 @@ namespace MOBAServer.Logic
 
         public void OnDisconnect(MobaClient client)
         {
-
+            playerCache.OffLine(client);
         }
 
         public void OnRequest(MobaClient client, byte subCode, OperationRequest request)
         {
+            MobaApplication.LogInfo(subCode.ToString());
             switch (subCode)
             {
                 case OpPlayer.GetInfo:
@@ -33,7 +37,7 @@ namespace MOBAServer.Logic
                     break;
 
                 case OpPlayer.Online:
-                    //TODO
+                    OnOnline(client);
                     break;
 
                 default:
@@ -74,6 +78,43 @@ namespace MOBAServer.Logic
             //创建
             playerCache.Create(name, accId);
             Send(client, OpCode.PlayerCode, OpPlayer.Create, 0, "创建成功");
+        }
+
+        /// <summary>
+        /// 上线
+        /// </summary>
+        /// <param name="client"></param>
+        private void OnOnline(MobaClient client)
+        {
+            int accId = accountCache.GetId(client);
+            int playerId = playerCache.GetiId(accId);
+
+            //防止重复在线
+            if (playerCache.Has(client))
+            {
+                MobaApplication.LogInfo("重复在线");
+                return;
+            }
+
+            //上线
+            playerCache.Online(client, playerId);
+
+            var model = playerCache.GetMode(playerId);
+            var dto = new PlayerDto()
+            {
+                Id = model.Id,
+                Exp = model.Exp,
+                FrientList = model.FrientList,
+                HeroList=model.HeroList,
+                LoseCount=model.LoseCount,
+                Lv=model.Lv,
+                Name=model.Name,
+                Power=model.Power,
+                RunCount=model.RunCount,
+                WinCount=model.WinCount
+            };
+
+            Send(client, OpCode.PlayerCode, OpPlayer.Online, 0, "上线成功",JsonMapper.ToJson(dto));
         }
     }
 }

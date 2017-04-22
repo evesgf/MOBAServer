@@ -628,6 +628,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9509e42f87d05ee43a30c9c61b33813b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  txtName: {fileID: 114000012063967532}
+  barExp: {fileID: 114000010331750122}
+  friendTran: {fileID: 224000012164396724}
 --- !u!114 &114000010331750122
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -662,7 +665,7 @@ MonoBehaviour:
     m_HighlightedTrigger: Highlighted
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
   m_FillRect: {fileID: 224000010780333314}
   m_HandleRect: {fileID: 0}

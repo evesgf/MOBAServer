@@ -2,14 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace MOBAServer.Model
+namespace MOBACommon.Dto
 {
-    /// <summary>
-    /// 玩家数据模型
-    /// </summary>
-    public class PlayerModel
+    public class PlayerDto
     {
         /// <summary>
         /// 主键
@@ -43,7 +39,16 @@ namespace MOBAServer.Model
         /// 逃跑场次
         /// </summary>
         public int RunCount { get; set; }
-        
+
+        /// <summary>
+        /// 英雄列表
+        /// </summary>
+        private string heroList = "0,1";
+        /// <summary>
+        /// 好友列表
+        /// </summary>
+        private string frientList;
+
         public string HeroList
         {
             get
@@ -70,51 +75,9 @@ namespace MOBAServer.Model
             }
         }
 
-        public int AccountId
-        {
-            get
-            {
-                return accountId;
-            }
-
-            set
-            {
-                accountId = value;
-            }
-        }
-
-        /// <summary>
-        /// 英雄列表
-        /// </summary>
-        private string heroList = "0,1";
-        /// <summary>
-        /// 好友列表
-        /// </summary>
-        private string frientList;
-        /// <summary>
-        /// 账号Id
-        /// </summary>
-        private int accountId;
-
-        public PlayerModel()
+        public PlayerDto()
         {
 
-        }
-
-        public PlayerModel(int id,string name,int account)
-        {
-            Id = id;
-            Name = name;
-            AccountId = account;
-
-            Lv = 1;
-            Exp = 0;
-            Power = 2000;
-            WinCount = 0;
-            LoseCount = 0;
-            RunCount = 0;
-            HeroList = "0,1";
-            FrientList = string.Empty;
         }
     }
 }

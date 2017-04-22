@@ -39,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dto\AccountDto.cs" />
+    <Compile Include="Dto\PlayerDto.cs" />
     <Compile Include="OpCode\OpAccount.cs" />
     <Compile Include="OpCode\OpCode.cs" />
     <Compile Include="OpCode\OpPlayer.cs" />

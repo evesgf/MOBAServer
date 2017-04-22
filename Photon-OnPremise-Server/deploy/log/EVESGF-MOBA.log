@@ -163,3 +163,204 @@
 2017-04-21 19:17:50,354 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
 2017-04-21 19:17:50,448 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
 2017-04-21 19:17:50,449 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-22 21:09:11,772 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-22 21:09:50,272 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-22 21:09:50,275 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-22 21:10:14,476 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-22 21:10:20,491 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-22 21:10:20,646 [13] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-22 21:10:25,488 [10] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:02:38,443 [17] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-22 22:02:38,532 [17] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-22 22:02:38,535 [17] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-22 22:02:38,535 [17] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-22 22:02:42,366 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-22 22:02:42,422 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-22 22:02:42,426 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-22 22:02:47,322 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-22 22:16:31,753 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-22 22:16:31,761 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-22 22:16:41,522 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-22 22:16:48,037 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-22 22:16:54,704 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-22 22:16:55,001 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-22 22:17:00,651 [10] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:17:29,456 [10] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 ExitGames.Threading.SynchronizedDictionary`2.get_Item(TKey key) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\SynchronizedDictionary.cs:行号 173
+   在 MOBAServer.Cache.PlayerCache.OffLine(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Cache\PlayerCache.cs:行号 69
+   在 MOBAServer.Logic.PlayerHandler.OnDisconnect(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Logic\PlayerHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Project\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 33
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-22 22:17:39,111 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-22 22:17:39,112 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-22 22:18:02,481 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-22 22:18:07,133 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-22 22:18:23,729 [11] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 ExitGames.Threading.SynchronizedDictionary`2.get_Item(TKey key) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\SynchronizedDictionary.cs:行号 173
+   在 MOBAServer.Cache.PlayerCache.OffLine(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Cache\PlayerCache.cs:行号 69
+   在 MOBAServer.Logic.PlayerHandler.OnDisconnect(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Logic\PlayerHandler.cs:行号 21
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Project\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 33
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-22 22:19:57,695 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-22 22:19:57,704 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-22 22:19:57,705 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-22 22:21:13,562 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-22 22:22:17,860 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-22 22:22:17,873 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-22 22:22:17,874 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-22 22:26:01,737 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-22 22:26:24,187 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-22 22:26:24,190 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-22 22:26:29,686 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-22 22:26:34,259 [13] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-22 22:26:34,386 [10] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-22 22:26:34,388 [10] INFO  MOBAServer.MobaApplication - 0
+2017-04-22 22:26:45,615 [13] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:26:45,618 [13] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:27:33,983 [13] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 ExitGames.Threading.SynchronizedDictionary`2.get_Item(TKey key) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\SynchronizedDictionary.cs:行号 173
+   在 MOBAServer.Cache.PlayerCache.OffLine(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Cache\PlayerCache.cs:行号 69
+   在 MOBAServer.Logic.PlayerHandler.OnDisconnect(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Logic\PlayerHandler.cs:行号 22
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Project\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 33
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-22 22:27:37,382 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-22 22:27:37,388 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-22 22:27:37,389 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-22 22:27:41,764 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-22 22:28:50,276 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-22 22:28:50,279 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-22 22:28:55,074 [14] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-22 22:28:59,201 [14] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-22 22:28:59,377 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-22 22:28:59,378 [12] INFO  MOBAServer.MobaApplication - 0
+2017-04-22 22:29:02,602 [14] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:29:02,604 [14] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:29:40,216 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:29:40,217 [12] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:29:40,935 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:29:40,936 [11] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:29:41,174 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:29:41,176 [12] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:29:41,434 [14] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:29:41,435 [14] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:29:41,602 [14] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:29:41,605 [14] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:29:41,778 [13] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-22 22:29:41,779 [13] INFO  MOBAServer.MobaApplication - 1
+2017-04-22 22:30:14,414 [12] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 ExitGames.Threading.SynchronizedDictionary`2.get_Item(TKey key) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\SynchronizedDictionary.cs:行号 173
+   在 MOBAServer.Cache.PlayerCache.OffLine(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Cache\PlayerCache.cs:行号 69
+   在 MOBAServer.Logic.PlayerHandler.OnDisconnect(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Logic\PlayerHandler.cs:行号 22
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Project\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 33
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-22 22:31:04,246 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-22 22:31:04,259 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-22 22:31:06,852 [13] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 ExitGames.Threading.SynchronizedDictionary`2.get_Item(TKey key) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\SynchronizedDictionary.cs:行号 173
+   在 MOBAServer.Cache.PlayerCache.OffLine(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Cache\PlayerCache.cs:行号 69
+   在 MOBAServer.Logic.PlayerHandler.OnDisconnect(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Logic\PlayerHandler.cs:行号 22
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Project\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 33
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-23 00:52:55,857 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=MOBA
+2017-04-23 00:52:55,867 [1] INFO  MOBAServer.MobaApplication - Server Tear Down
+2017-04-23 00:52:55,868 [1] INFO  Photon.SocketServer.ApplicationBase - Application stop: AppId=MOBA
+2017-04-23 00:56:27,125 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-23 00:57:37,447 [9] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 00:57:37,451 [9] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-23 00:57:42,561 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-23 00:57:48,681 [9] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-23 00:57:48,900 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-23 00:57:48,902 [11] INFO  MOBAServer.MobaApplication - 0
+2017-04-23 00:58:31,591 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 00:58:31,608 [11] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 00:58:38,730 [9] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 00:58:38,765 [9] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 00:59:42,315 [9] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 00:59:42,330 [9] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:01:30,573 [9] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:01:30,574 [9] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:01:58,445 [12] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:01:58,448 [12] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:02:02,379 [9] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:02:02,398 [9] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:03:55,276 [17] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:03:55,277 [17] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:04:27,361 [17] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:04:27,364 [17] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:04:48,338 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:04:48,340 [11] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:05:29,890 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-23 01:05:51,057 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 01:05:51,059 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-23 01:05:55,703 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-23 01:06:05,201 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-23 01:06:12,074 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-23 01:06:13,462 [10] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-23 01:06:13,464 [10] INFO  MOBAServer.MobaApplication - 0
+2017-04-23 01:06:26,442 [10] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:06:26,443 [10] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:07:19,692 [15] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:07:19,795 [15] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:10:45,627 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 01:10:45,694 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-23 01:10:47,616 [15] ERROR ExitGames.Threading.FailSafeBatchExecutor - System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 ExitGames.Threading.SynchronizedDictionary`2.get_Item(TKey key) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\SynchronizedDictionary.cs:行号 173
+   在 MOBAServer.Cache.PlayerCache.OffLine(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Cache\PlayerCache.cs:行号 69
+   在 MOBAServer.Logic.PlayerHandler.OnDisconnect(MobaClient client) 位置 E:\Project\MOBAServer\Server\MOBAServer\Logic\PlayerHandler.cs:行号 22
+   在 MOBAServer.MobaClient.OnDisconnect(DisconnectReason reasonCode, String reasonDetail) 位置 E:\Project\MOBAServer\Server\MOBAServer\MobaClient.cs:行号 33
+   在 Photon.SocketServer.PeerBase.OnApplicationDisconnect(DisconnectReason reasonCode, String reasonDetail, Int32 rtt, Int32 rttVariance, Int32 numFailures) 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 1039
+   在 Photon.SocketServer.PeerBase.<>c__DisplayClass2.<Photon.SocketServer.IManagedPeer.Application_OnDisconnect>b__1() 位置 h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\PeerBase.cs:行号 874
+   在 ExitGames.Threading.FailSafeBatchExecutor.Execute(Action action) 位置 c:\(Work)\(EG)\exitgames-libs\src\Core\Threading\FailSafeBatchExecutor.cs:行号 111
+2017-04-23 01:14:18,374 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=MOBA; AppPath=E:\Project\MOBAServer\Photon-OnPremise-Server\deploy\MOBA, Type=MOBAServer.MobaApplication 
+2017-04-23 01:15:19,708 [10] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 01:15:19,712 [10] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-23 01:15:26,251 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-23 01:15:31,525 [10] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-23 01:15:31,650 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-23 01:15:31,652 [11] INFO  MOBAServer.MobaApplication - 0
+2017-04-23 01:15:44,668 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:15:44,669 [11] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:15:44,963 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_1_Photon.SocketServer.SendParameters
+2017-04-23 01:15:44,964 [11] INFO  MOBAServer.MobaApplication - 1
+2017-04-23 01:15:44,965 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_2_Photon.SocketServer.SendParameters
+2017-04-23 01:15:44,966 [11] INFO  MOBAServer.MobaApplication - 2
+2017-04-23 01:16:12,969 [12] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 01:16:12,970 [12] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-23 01:16:21,043 [15] INFO  MOBAServer.MobaApplication - 客户端请求：0_1_Photon.SocketServer.SendParameters
+2017-04-23 01:16:26,174 [12] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-23 01:16:26,265 [16] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-23 01:16:26,266 [16] INFO  MOBAServer.MobaApplication - 0
+2017-04-23 01:16:28,009 [15] INFO  MOBAServer.MobaApplication - 客户端请求：1_2_Photon.SocketServer.SendParameters
+2017-04-23 01:16:28,011 [15] INFO  MOBAServer.MobaApplication - 2
+2017-04-23 01:17:30,248 [15] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 01:17:30,248 [15] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-23 01:19:33,027 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-23 01:19:33,136 [15] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-23 01:19:33,137 [15] INFO  MOBAServer.MobaApplication - 0
+2017-04-23 01:19:36,367 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_2_Photon.SocketServer.SendParameters
+2017-04-23 01:19:36,368 [11] INFO  MOBAServer.MobaApplication - 2
+2017-04-23 01:22:10,866 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 01:22:10,868 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1
+2017-04-23 01:22:14,750 [11] INFO  MOBAServer.MobaApplication - 客户端请求：0_0_Photon.SocketServer.SendParameters
+2017-04-23 01:22:14,840 [15] INFO  MOBAServer.MobaApplication - 客户端请求：1_0_Photon.SocketServer.SendParameters
+2017-04-23 01:22:14,841 [15] INFO  MOBAServer.MobaApplication - 0
+2017-04-23 01:22:14,875 [11] INFO  MOBAServer.MobaApplication - 客户端请求：1_2_Photon.SocketServer.SendParameters
+2017-04-23 01:22:14,876 [11] INFO  MOBAServer.MobaApplication - 2
+2017-04-23 01:31:17,306 [11] INFO  MOBAServer.MobaApplication - 上线：127.0.0.1
+2017-04-23 01:31:17,307 [11] INFO  MOBAServer.MobaApplication - 创建：127.0.0.1

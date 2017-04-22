@@ -37,7 +37,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44692558, g: 0.49678743, b: 0.57508624, a: 1}
+  m_IndirectSpecularColor: {r: 0.44692534, g: 0.49678725, b: 0.5750856, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1823,6 +1823,12 @@ Transform:
   - {fileID: 1481546668}
   m_Father: {fileID: 0}
   m_RootOrder: 6
+--- !u!114 &992520921 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114000010310471222, guid: 680a6976f1a17c34fabb3f76beac8f16,
+    type: 2}
+  m_PrefabInternal: {fileID: 936786354}
+  m_Script: {fileID: 11500000, guid: 9509e42f87d05ee43a30c9c61b33813b, type: 3}
 --- !u!1 &1013302714
 GameObject:
   m_ObjectHideFlags: 0
@@ -2355,6 +2361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6ce1a724fd59634eba5c936f71ea77d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mainView: {fileID: 992520921}
 --- !u!1 &1582597716
 GameObject:
   m_ObjectHideFlags: 0

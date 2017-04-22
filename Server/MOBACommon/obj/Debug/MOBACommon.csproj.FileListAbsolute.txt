@@ -2,9 +2,8 @@ E:\Dev\MOBAServer\MobaClient\Assets\MobaClient\Puglins\MOBACommon.dll
 E:\Dev\MOBAServer\MobaClient\Assets\MobaClient\Puglins\MOBACommon.pdb
 E:\Dev\MOBAServer\Server\MOBACommon\obj\Debug\MOBACommon.dll
 E:\Dev\MOBAServer\Server\MOBACommon\obj\Debug\MOBACommon.pdb
+E:\Dev\MOBAServer\Server\MOBACommon\obj\Debug\MOBACommon.csprojResolveAssemblyReference.cache
 E:\Project\MOBAServer\MobaClient\Assets\MobaClient\Puglins\MOBACommon.dll
 E:\Project\MOBAServer\MobaClient\Assets\MobaClient\Puglins\MOBACommon.pdb
 E:\Project\MOBAServer\Server\MOBACommon\obj\Debug\MOBACommon.dll
 E:\Project\MOBAServer\Server\MOBACommon\obj\Debug\MOBACommon.pdb
-E:\Dev\MOBAServer\Server\MOBACommon\obj\Debug\MOBACommon.csprojResolveAssemblyReference.cache
-E:\Project\MOBAServer\Server\MOBACommon\obj\Debug\MOBACommon.csprojResolveAssemblyReference.cache

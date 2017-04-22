@@ -41,5 +41,60 @@ namespace MOBAServer.Cache
         {
             return accPlayerDict.ContainsKey(accountId);
         }
+
+        #region 在线
+        /// <summary>
+        /// 双向映射
+        /// </summary>
+        private SynchronizedDictionary<MobaClient, int> clientIdDict = new SynchronizedDictionary<MobaClient, int>();
+        private SynchronizedDictionary<int, MobaClient> idClientDict = new SynchronizedDictionary<int, MobaClient>();
+
+        /// <summary>
+        /// 上线
+        /// </summary>
+        /// <param name="client"></param>
+        /// <param name="playerId"></param>
+        public void Online(MobaClient client,int playerId)
+        {
+            clientIdDict.TryAdd(client, playerId);
+            idClientDict.TryAdd(playerId, client);
+        }
+
+        /// <summary>
+        /// 下线
+        /// </summary>
+        /// <param name="client"></param>
+        public void OffLine(MobaClient client)
+        {
+            int id = clientIdDict[client];
+
+            if (clientIdDict.ContainsKey(client))
+                clientIdDict.Remove(client);
+            if (idClientDict.ContainsKey(id))
+                idClientDict.Remove(id);
+        }
+
+        public bool Has(MobaClient client)
+        {
+            return clientIdDict.ContainsKey(client);
+        }
+
+        public int GetiId(int accId)
+        {
+            int playerId = -1;
+            accPlayerDict.TryGetValue(accId, out playerId);
+            return playerId;
+        }
+        #endregion
+
+        /// <summary>
+        /// 获取玩家数据
+        /// </summary>
+        /// <param name="playerId"></param>
+        /// <returns></returns>
+        public PlayerModel GetMode(int playerId)
+        {
+            return idModelDict[playerId];
+        }
     }
 }

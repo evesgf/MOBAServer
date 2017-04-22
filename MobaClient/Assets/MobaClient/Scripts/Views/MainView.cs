@@ -2,6 +2,8 @@
 using System.Collections;
 using System;
 using MOBACommon.OpCode;
+using UnityEngine.UI;
+using MOBACommon.Dto;
 
 public class MainView : UIBase
 {
@@ -30,6 +32,27 @@ public class MainView : UIBase
     public override string uiName()
     {
         return UIDefinit.UIMain;
+    }
+    #endregion
+
+    #region 刷新模块
+    [Header("刷新")]
+    [SerializeField]
+    private Text txtName;
+    [SerializeField]
+    private Slider barExp;
+    [SerializeField]
+    private Transform friendTran;
+
+    /// <summary>
+    /// 更新显示
+    /// </summary>
+    public void UpdateView(PlayerDto dto)
+    {
+        txtName.text = dto.Name;
+        barExp.value =(float) dto.Exp / dto.Lv * 100;
+
+        //TODO:好友列表
     }
     #endregion
 }
